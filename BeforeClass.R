@@ -24,5 +24,8 @@
 #To write a comment in your script type #and then type. The text will turn green.    
 #Comment your answers to the above questions and play around a bit more in your "R Practice.R" script
 #You can also comment any questions you have at the bottom of your script
-#Submit your R Practice.R script as Assignment0 on GitHub classroom found here:
-# https://classroom.github.com/a/NvGfNMfH
+
+
+#Copy and paste the contents of your R Practice script below here in your GitHub repository for Assignment 0:
+
+
